@@ -1,0 +1,13 @@
+***Trabalho de WALTER: Música***
+Campos
+
+Table: Género.
++---------+------------+
+|ID_Genero| Genero     |
++---------+------------+
+
+Table: Música.
+
++-----------+------------+------------+------------+
+|ID_Musica  | NOM_Musica | Autor      | ID_Genero  |
++-----------+------------+------------+------------+
